@@ -1,4 +1,4 @@
-[!webXRLogo](https://immersive-web.github.io/webxr-samples/media/logo/webxr-logo.svg)
+[!webXRLogo](/images/cover.svg)
 # Plantilla de Trabajo para WebXR con AR
 El repositorio cuenta con dos opciones
 
