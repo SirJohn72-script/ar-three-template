@@ -37,7 +37,7 @@ class ARExperience {
     )
 
     const material = new THREE.MeshBasicMaterial({
-      color: 0xff0fff,
+      color: 0xff0000,
     })
 
     this.mesh = new THREE.Mesh(geometry, material)

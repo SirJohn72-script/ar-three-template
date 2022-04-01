@@ -13,7 +13,7 @@ const ARComponents = () => {
         <ARCanvas vr="true">
           <mesh position={[0, 0, -0.5]}>
             <boxBufferGeometry args={[0.09, 0.09, 0.09]} />
-            <meshBasicMaterial color={"#ff00ff"} />
+            <meshBasicMaterial color={"#ff0000"} />
           </mesh>
 
           <DefaultXRControllers />
