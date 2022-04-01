@@ -1,4 +1,4 @@
-[!webXRLogo](public/cover.svg)
+[!webXRLogo](public/cover.png)
 # Plantilla de Trabajo para WebXR con AR
 El repositorio cuenta con dos opciones
 
