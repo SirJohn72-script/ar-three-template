@@ -11,4 +11,15 @@ El repositorio cuenta con dos opciones
 ## Tutorial
 Youtube
 
+## Instalación
+No te olvides utilizar el siguiente comando para la instalación de las librerías usadas
+- npm install
+
+
+## Tecnologías 
+- [React](https://es.reactjs.org/)
+- [Three.js](https://threejs.org/)
+- [@React-Three/Fiber](https://github.com/pmndrs/react-three-fiber)
+- [@React-Three/Drei](https://github.com/pmndrs/drei)
+- [@React-Three/XR](https://github.com/pmndrs/react-xr)
 
