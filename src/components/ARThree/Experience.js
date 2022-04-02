@@ -82,7 +82,7 @@ class ARExperience {
 
   resize() {
     const { clientWidth: width, clientHeight: height } =
-      this.container
+      document.querySelector(".container3D")
     this.renderer.setSize(width, height)
     this.camera.updateProjectionMatrix()
     this.camera.aspect = width / height
